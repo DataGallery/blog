@@ -1,0 +1,11 @@
+# Site settings
+title: Code for Jersey City Blog
+email: james.slater.solomon@gmail.com
+description: "Code for Jersey City Blog, a place to read about our projects and initatives."
+
+baseurl: "/blog"
+url: "http://openjerseycity.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
