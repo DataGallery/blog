@@ -6,20 +6,20 @@ categories: meetup opendata
 author:  Anna Lukasiak
 ---
 
-On March 17th, 2015, local group of civic tech activists met with Brian Platt from the Mayor Fulop’s office to discuss recent updates and the next steps for the city’s [Official Open Data Portal][officialdataportal].  The meeting was hosted by local civic tech group, [CodeForJC][cjc], a brigade of [CFA][cfa], at the [Teen Tech Center][teentechctr] at [Boys and Girls Club][bgc] in Jersey City, NJ.
+On March 17th, 2015, local group of civic tech activists met with Brian Platt from the Mayor Fulop’s office to discuss recent updates and future imporvements to the city’s [Official Open Data Portal][officialdataportal].  The meeting was hosted by local civic tech group, [CodeForJC][cjc], a brigade of [CFA][cfa], at the [Teen Tech Center][teentechctr] at [Boys and Girls Club][bgc] in Jersey City, NJ.
 
 ![officialdataportal]({{ site.blogurl }}/assets/Portal.png)
 
 New city website
 ----------------
-The current [Official Jersey City website][officialdataportal] needs urgent upgrade to satfisfy mobile friendly requirements.  Candice Osborne and Brian Platt will be leading UX redesign and will engaginge the community and civic organizations to help create a more resident friendly site.  The implementation will be decided during a dedicated city-sponsored hackathon and the winning team will get to build the new website.
+The current [Official Jersey City website][officialdataportal] needs urgent upgrade to satfisfy mobile friendly requirements.  Candice Osborne and Brian Platt will be leading UX redesign.  They will be engaging the community and civic organizations to help create a resident friendly site.  The implementation will be decided during a dedicated city-sponsored hackathon and the winning team will build the new website.
 
 Budget Visualization
 --------------------
 
 ![BudgetVis Screenshot]({{ site.blogurl }}/assets/BudgetVis.png)
 
-The city is interested in showing budget in a more resident friendly form, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
+The city is interested in showing budget in resident friendly form, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
 
 Interactive Zoning Map
 ----------------------
@@ -33,11 +33,13 @@ With the current increase of development in the city, the Planning Department is
 
 ![911 Screenshot]({{ site.blogurl }}/assets/911.png)
 
-To make the currently published raw data relevant to average resident, the city wants to create 9-1-1 dashboard.  Second, the spreadsheet is not compatible with all spreadsheet applications and proposal was made to replace it with CSV file(s), which are smaller, as either one per month or single file per year with additional column indicateing the reporting month.  The Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
+To make the currently published 9-1-1 request for service data relevant to average resident, the city wants develop a dashboard.  Rergarding publishing the raw data, it was suggested the spreadsheet be replaces with CSV files which are compatible with all spreadsheet applications, either one file per month or a single file per year with additional column indicateing the reporting month.  In the long term, the Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
 
 Bike Lane Maps
 --------------
 [Bike JC][bikejc] is working with Google to update cycling layer on Google maps ([see article here][article]) for Jersey City.  The [bike lanes map][bikelanesmap] on the city website is couple versions behind.  A workflow to update and maintain the data needs to be established.  The maintenance can be performed by BikeJC and the city portal will include the link to the official Google cycling maps.
+
+*Update as of March 19th, 2015:  Brian Platt engaged with BikeJC and the link to the updated Google Bike Maps is now updated on the city portal.*
 
 Data Visualization
 ------------------
@@ -49,7 +51,7 @@ Data wrangling and data publishing practices and tools need to be identified to 
 
 Tax Abatement Dashboard File
 ----------------------------
-The frequently requested Tax Abatement Dashboard File was one of the recent additions to the portal.  The file contains data like development location, abatement type, abatement duration, affordable housing contribution, project cost, current annual taxes, estimated annual service charge, permanent and temporary jobs created, etc, for  abatements granted in  2014  and 2015.  Upon quick inspection, an improvement was suggested add a link to the actual abatement schedule document.  In addition, all outstanding + historical abatements should be made available in the future.
+The frequently requested Tax Abatement Dashboard File was one of the recent additions to the portal.  The file includes development location, abatement type, abatement duration, affordable housing contribution, project cost, current annual taxes, estimated annual service charge, permanent and temporary jobs created, etc, for  abatements granted in  2014  and 2015.  Upon quick inspection, an improvement was suggested add a link to the actual abatement schedule document.  In addition, all outstanding + historical abatements should be made available in the future.
 
 OPRA Requests
 -------------
@@ -64,7 +66,7 @@ Each year, Jersey City provides local data to the [American Community Survey (U.
 
 Pothole Repair 
 --------------
-In 2015 winter season, the city in partnership with the county increased the number of crews to seven.  Further, the Department of Public Works (DPW) is equipping their crews with Spatial Data Logic (SDL) tablet app with real-time workflow where crews can check off the filled potholes as they fill them out.  In the last week alone, the city filled over 1,000 potholes, as compared with 3,000 potholes between Jan and May filled last year.  The process of collecting information about location of potholes can be improved.   The city relies on several sources, including request filed with the [Resident Response Center][rrc] or [FixIt Mobile App][fixit], phone calls, emails and text messages sent directly to DWP’s director Mark Redfield, and FB posts.  The city does not have an app like [Street Bump][streetbump] to help them automatically identify potholes.
+In 2015 winter season, the city in partnership with the county increased the number of crews to seven.  Further, the Department of Public Works (DPW) is equipping their crews with Spatial Data Logic (SDL) tablet app with real-time workflow where crews can check off the filled potholes as they fill them out.  In the last week alone, the city filled over 1,000 potholes, as compared with 3,000 potholes between Jan and May filled last year.  The process of collecting information about location of potholes can be improved.   The city relies on several sources, including resident requests filed with the [Resident Response Center][rrc] or [FixIt Mobile App][fixit], phone calls, emails and text messages sent directly to DWP’s director Mark Redfield, and FB posts.  The city does not have an app like [Street Bump][streetbump] to help them automatically identify potholes.
 
 Official documents digitization process
 ---------------------------------------
@@ -72,7 +74,7 @@ The city is undergoing an official documents digitization process.  After Sandy,
 
 The Bloomberg Innovation Grant
 ------------------------------
-The city is very close in hiring a director for the [Bloomberg Innovation Grant][iteam].  There is an overlap with the initiative that will focus on crime and youth recreational programs, removing blight, finding new use for abandoned buildings, quality of life index correlation.  There is also an overlap with open data.
+The city is very close in hiring a director for the [Bloomberg Innovation Grant][iteam].  The initiative will focus on correlating crime and factors that are known to reduce crime, including youth recreational programs, removing blight, finding new use for abandoned buildings, quality of life index, etc.  There is also an overlap with open data.
 
 
 [bikejc]: http://www.bikejc.org/
