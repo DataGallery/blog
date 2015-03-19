@@ -6,7 +6,7 @@ github_username: CodeForJerseyCity
 twitter_username: CodeForJC
 
 baseurl: "/blog"
-url: "http://openjerseycity.org"
+url: "http://codeforjc.org"
 
 # Build settings
 markdown: kramdown
