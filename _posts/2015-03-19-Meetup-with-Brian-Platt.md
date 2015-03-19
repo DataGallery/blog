@@ -33,13 +33,13 @@ With the current increase of development in the city, the Planning Department is
 
 ![911 Screenshot]({{ site.blogurl }}/assets/911.png)
 
-To make the currently published 9-1-1 request for service data relevant to average resident, the city wants develop a dashboard.  Rergarding publishing the raw data, it was suggested the spreadsheet be replaces with CSV files which are compatible with all spreadsheet applications, either one file per month or a single file per year with additional column indicateing the reporting month.  In the long term, the Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
+To make the currently published 9-1-1 request for service data relevant to average resident, the city wants develop a dashboard with maps and charts.  Rergarding publishing the raw data, it was suggested the spreadsheet be replaces with CSV files which are compatible with all spreadsheet applications, either one file per month or a single file per year with additional column indicateing the reporting month.  In the long term, the Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
 
 Bike Lane Maps
 --------------
 [Bike JC][bikejc] is working with Google to update cycling layer on Google maps ([see article here][article]) for Jersey City.  The [bike lanes map][bikelanesmap] on the city website is couple versions behind.  A workflow to update and maintain the data needs to be established.  The maintenance can be performed by BikeJC and the city portal will include the link to the official Google cycling maps.
 
-*Update as of March 19th, 2015:  Brian Platt engaged with BikeJC and the link to the updated Google Bike Maps is now updated on the city portal.*
+*Update as of March 19th, 2015:  Brian Platt engaged with BikeJC and the link to the most recent version of the JC Google Bike Map is now updated on the city portal.*
 
 Data Visualization
 ------------------
