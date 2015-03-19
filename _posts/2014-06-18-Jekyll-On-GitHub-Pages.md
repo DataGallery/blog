@@ -3,6 +3,7 @@ layout: post
 title:  "How to setup Jekyll Blog Hosted on GitHub Project Pages"
 date:   2014-06-18 20:08:27
 categories: technical
+author:  Anna Lukasiak
 ---
 
 This blog post documents the setup done to create [Code for Jersey City Blog](http://openjerseycity.org/blog) and instructions on how to create and add a new post.

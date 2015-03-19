@@ -3,6 +3,7 @@ layout: post
 title:  "How to setup Pelican Blog Hosted on GitHub Project Pages"
 date:   2014-06-20 14:48:00
 categories: technical
+author:  Anna Lukasiak
 ---
 
 This blog post documents the setup done to create [Code for Jersey City Blog](http://openjerseycity.org/pelican) and instructions on how to create and add a new post.

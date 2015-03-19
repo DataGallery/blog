@@ -3,6 +3,7 @@ layout: post
 title:  "Jersey City Open Data Ordinance"
 date:   2014-06-18 11:28:27
 categories: OpenData
+author:  Anna Lukasiak
 ---
 
 You can find the latest copy of the proposed ordinance [here][OpenDataOrdinance].
