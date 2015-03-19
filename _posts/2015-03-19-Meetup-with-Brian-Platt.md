@@ -19,7 +19,7 @@ Budget Visualization
 
 ![BudgetVis Screenshot]({{ site.blogurl }}/assets/BudgetVis.png)
 
-The city is interested in showing budget in resident friendly form, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
+The city is interested in showing budget in form that is relevant and accessible to avereage resident, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
 
 Interactive Zoning Map
 ----------------------
