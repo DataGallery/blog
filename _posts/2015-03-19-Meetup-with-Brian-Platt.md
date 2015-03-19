@@ -6,20 +6,20 @@ categories: meetup opendata
 author:  Anna Lukasiak
 ---
 
-On March 17th, 2015, local group of civic tech activists met with Brian Platt from the Mayor Fulop’s office to discuss recent updates and future imporvements to the city’s [Official Open Data Portal][officialdataportal].  The meeting was hosted by local civic tech group, [CodeForJC][cjc], a brigade of [CFA][cfa], at the [Teen Tech Center][teentechctr] at [Boys and Girls Club][bgc] in Jersey City, NJ.
+On March 17th, 2015, local group of civic tech activists met with Brian Platt from the Mayor Fulop’s office to discuss recent updates and future improvements to the city’s [Official Open Data Portal][officialdataportal].  The meeting was hosted by local civic tech group, [CodeForJC][cjc], a brigade of [CFA][cfa], at the [Teen Tech Center][teentechctr] at [Boys and Girls Club][bgc] in Jersey City, NJ.
 
 ![officialdataportal]({{ site.blogurl }}/assets/Portal.png)
 
 New city website
 ----------------
-The current [Official Jersey City website][officialdataportal] needs urgent upgrade to satfisfy mobile friendly requirements.  Candice Osborne and Brian Platt will be leading UX redesign.  They will be engaging the community and civic organizations to help create a resident friendly site.  The implementation will be decided during a dedicated city-sponsored hackathon and the winning team will build the new website.
+The current [Official Jersey City website][officialdataportal] needs urgent upgrade to satisfy mobile friendly requirements.  Candice Osborne and Brian Platt will be leading UX redesign.  They will be engaging the community and civic organizations to help create a resident friendly site.  The implementation will be decided during a dedicated city-sponsored hackathon and the winning team will build the new website.
 
 Budget Visualization
 --------------------
 
 ![BudgetVis Screenshot]({{ site.blogurl }}/assets/BudgetVis.png)
 
-The city is interested in showing budget in form that is relevant and accessible to avereage resident, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
+The city is interested in showing budget in form that is relevant and accessible to average resident, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
 
 Interactive Zoning Map
 ----------------------
@@ -33,7 +33,7 @@ With the current increase of development in the city, the Planning Department is
 
 ![911 Screenshot]({{ site.blogurl }}/assets/911.png)
 
-To make the currently published 9-1-1 request for service data relevant to average resident, the city wants develop a dashboard with maps and charts.  Rergarding publishing the raw data, it was suggested the spreadsheet be replaces with CSV files which are compatible with all spreadsheet applications, either one file per month or a single file per year with additional column indicateing the reporting month.  In the long term, the Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
+To make the currently published 9-1-1 request for service data relevant to average resident, the city wants develop a dashboard with maps and charts.  Regarding publishing the raw data, it was suggested the spreadsheet be replaces with CSV files which are compatible with all spreadsheet applications, either one file per month or a single file per year with additional column indicating the reporting month.  In the long term, the Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
 
 Bike Lane Maps
 --------------
