@@ -8,7 +8,7 @@ author:  Anna Lukasiak
 
 On March 17th, 2015, local group of civic tech activists met with Brian Platt from the Mayor Fulop’s office to discuss recent updates and the next steps for the city’s [Official Open Data Portal][officialdataportal].  The meeting was hosted by local civic tech group, [CodeForJC][cjc], a brigade of [CFA][cfa], at the [Teen Tech Center][teentechctr] at [Boys and Girls Club][bgc] in Jersey City, NJ.
 
-![officialdataportal](/assets/Portal.png)
+![officialdataportal]({{ site.blogurl }}/assets/Portal.png)
 
 New city website
 ----------------
@@ -17,21 +17,21 @@ The current [Official Jersey City website][officialdataportal] needs urgent upgr
 Budget Visualization
 --------------------
 
-![BudgetVis Screenshot](/assets/BudgetVis.png)
+![BudgetVis Screenshot]({{ site.blogurl }}/assets/BudgetVis.png)
 
 The city is interested in showing budget in a more resident friendly form, similar to [OpenGov][opengov].  Unfortunately, OpenGov does not intergrate seamlessly with the NJ state system.  In New Jersey, all municipalities use the same state mandated software.  CodeForJC started development of city budget visualization last year.  This is the link to the [CodeForJC Budget Visualization][cjcbudgetvis].
 
 Interactive Zoning Map
 ----------------------
 
-![Zoning Screenshot](/assets/Zoning.png)
+![Zoning Screenshot]({{ site.blogurl }}/assets/Zoning.png)
 
 With the current increase of development in the city, the Planning Department is looking to create Interactive Zoning Map similar to [Chicago's 2nd City Zoning][2ndcityzoning] or [Newark's Zoning Map][newarkzonemap] that will replace the current static PDF version of [JC Zoning Map][jczonemap].  The redevelopment plans documents will be included in the interactive map application as well as JCRA's [Downtown Development Map][downtowndevmap] & [Journal Sq Development Map][jsqdevmap].  One of the key requirements is the ability for the planning department to update and maintain the most current version on the public website. 
 
 9-1-1 Dashboard
 ---------------
 
-![911 Screenshot](/assets/911.png)
+![911 Screenshot]({{ site.blogurl }}/assets/911.png)
 
 To make the currently published raw data relevant to average resident, the city wants to create 9-1-1 dashboard.  Second, the spreadsheet is not compatible with all spreadsheet applications and proposal was made to replace it with CSV file(s), which are smaller, as either one per month or single file per year with additional column indicateing the reporting month.  The Public Safety Alert System project that is being developed by a OpenJC together with the JCPD, will create a real time feed with richer data.  
 
@@ -58,7 +58,7 @@ With expectation of a steep rise of OPRA requests in 2015 as compare to previous
 Census Data
 -----------
 
-![Census Screenshot](/assets/Census.png)
+![Census Screenshot]({{ site.blogurl }}/assets/Census.png)
 
 Each year, Jersey City provides local data to the [American Community Survey (U.S. Census Bureau)][amcommunitysurvey].  The submitted JC data can be found [here][jcsurveydata].  It was suggested to create local survey to collect and submit additional information about quality of live and sustainability.
 
