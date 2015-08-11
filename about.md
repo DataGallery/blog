@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Code for Jersey City is a hands on active community group collaborating with the Jersey City Government to build open data, open source and open government in Jersey City. We believe in public sector innovation and the value of digital-government projects. Come join other developers, designers, data geeks, civic leaders, organizers, and idea-makers to volunteer and collaborate.
+DataGallery is an experienced team creating innovative solutions. We specialize in data cleansing and creating interactive data visualizations. We design and build websites using cutting edge technologies.
 
-For more inforation about our group visit our [landing page][CodeforJC Landing].
+Our combined expertise includes law, transportation, financial (specializing in derivatives), investigative journalism and engineering.
 
-[CodeForJC landing]: http://codeforjc.org/
+We work with a wide range of organizations, including private sector, government agencies and non-profits.
+
+For more inforation about our group visit our [landing page][Data Gallery Landing].
+
+[Data Gallery landing]: http://datagallery.io/

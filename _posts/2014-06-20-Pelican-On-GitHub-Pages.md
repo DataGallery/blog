@@ -6,9 +6,9 @@ categories: technical
 author:  Anna Lukasiak
 ---
 
-This blog post documents the setup done to create [Code for Jersey City Blog](http://openjerseycity.org/pelican) and instructions on how to create and add a new post.
+This blog post documents the setup done to create [Data Gallery Blog](http://datagallery.io/pelican) and instructions on how to create and add a new post.
 
-Instructions used to create the Code for Jersey City Blog can be found on [Pelican on Github Pages](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](http://docs.getpelican.com/en/3.3.0/).  They include configuration options, plug-ins and theming not included in this post.
+Instructions used to create the Data Gallery Blog can be found on [Pelican on Github Pages](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](http://docs.getpelican.com/en/3.3.0/).  They include configuration options, plug-ins and theming not included in this post.
 
 Installing Python
 -----------------
@@ -49,7 +49,7 @@ Those are the questions included for Pelican v3.3.0:
 
 	    
 	> Where do you want to create your new web site? [.] 
-	> What will be the title of this web site? Code for Jersey City Blog
+	> What will be the title of this web site? Data Gallery Blog
 	> Who will be the author of this web site? Anna Lukasiak
 	> What will be the default language of this web site? [en] 
 	> Do you want to specify a URL prefix? e.g., http://example.com   (Y/n) 
@@ -98,7 +98,7 @@ The article itself can be crated using one of the several [lightweight markup la
 *  [AsciiDoc](http://asciidoc.org/)
 *  [textile](http://redcloth.org/textile/writing-paragraph-text/)
 
-For Code for Jersey City, we will use Markdown, a text-to-HTML conversion tool for web writers. “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool that converts the plain text formatting to HTML.  The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
+For Data Gallery, we will use Markdown, a text-to-HTML conversion tool for web writers. “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool that converts the plain text formatting to HTML.  The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
 
 You will need to install Markdown using pip:
 

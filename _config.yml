@@ -1,13 +1,13 @@
 # Site settings
-title: Code for Jersey City Blog
-email: anna@codeforjc.org
-description: "Code for Jersey City Blog, a place to read about our projects and initatives."
-github_username: CodeForJerseyCity
-twitter_username: CodeForJC
+title: Data Gallery Blog
+email: anna.lukasiak@datagallery.io
+description: "Data Gallery Blog, a place to read about our projects and initatives."
+github_username: DataGallery
+twitter_username: DataGallery
 
 baseurl: "/blog"
-url: "http://codeforjc.org"
-blogurl: "http://codeforjc.org/blog"
+url: "http://datagallery.io"
+blogurl: "http://datagallery.io/blog"
 
 # Build settings
 markdown: kramdown
