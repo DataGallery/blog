@@ -6,13 +6,13 @@ categories: politics women elections
 author:  Anna Lukasiak
 ---
 
-*"Sometime soon, there’ll be another woman presidential nominee. Maybe she’ll be in the Clinton tradition, the grand and glorious American worker bees. Maybe she’ll just leap out, like Barack Obama did, a fresh face with a new message. All we can know now is that when we talk about how she got there, we’ll be telling Hillary Clinton’s story." [November 11, 2016 New York Times][nyt_article]*
+Tribute to the successful women that secured seats in the House and Senatate in the 2016 elections.  The political landscape wouldn’t be the same without these women tirelessly working for what they believe in.
 
-My tribute to the successful women that secured seats in the House and Senatate in the 2016 elections. The inspiration came from the the November 15, 2016 [article][govloop_article] published by [GovLoop][govloop].  The political landscape wouldn’t be the same without these women tirelessly working for what they believe in.
+In the 2016 elections, 14 women were elected to hold positions in the House and Senate, 12 Democrats and 2 Republicans.  The breakdown between the Sentate and the House is 4 and 10.
 
-*"This election cycle truly brought the saying “a woman’s place is in the House and Senate,” to life. Last week, 112 women candidates all over the country won elections to take or continue holding seats in the highest echelons of government. While many of the winning ladies are incumbents, we wanted to highlight the fourteen women who are new to their respective legislative offices. The following is your comprehensive list of every woman that won a seat in the House and Senate this election season and why they are awesome."*
+*"Sometime soon, there’ll be another woman presidential nominee. Maybe she’ll be in the Clinton tradition, the grand and glorious American worker bees. Maybe she’ll just leap out, like Barack Obama did, a fresh face with a new message. All we can know now is that when we talk about how she got there, we’ll be telling Hillary Clinton’s story." from [November 11, 2016 New York Times][nyt_article]*
 
-In the 2016 elections, 14 women were elected to hold positions in the House and Senate, 12 new women Democrats and 2 Republicans were elected.  The breakdown between the Sentate and the House is 4 new senators and 10 new house representatives.
+*"This election cycle truly brought the saying “a woman’s place is in the House and Senate,” to life. Last week, 112 women candidates all over the country won elections to take or continue holding seats in the highest echelons of government. While many of the winning ladies are incumbents, we wanted to highlight the fourteen women who are new to their respective legislative offices. The following is your comprehensive list of every woman that won a seat in the House and Senate this election season and why they are awesome." from [November 15, 2016 GovLoop][govloop_article]*
 
 Senate
 ------
@@ -33,21 +33,6 @@ House
 [Val Demings (D-FL-10)](#val-demings-d-fl-10)
 [Colleen Hanabusa (D-HI-1)](#colleen-hanabusa-d-hi-1)
 [Liz Cheney (R-WY-At Large)](#liz-cheney-r-wy-at-large)
-
-![Kamala Harris]({{ site.blogurl }}/assets/kamala_harris.jpg)
-![Tammy Duckworth]({{ site.blogurl }}/assets/tammy_duckworth.jpg)
-![Catherine Cortez Masto]({{ site.blogurl }}/assets/catherine_cortez_masto.jpg)
-![Maggie Hassan]({{ site.blogurl }}/assets/maggie_hassan.jpg)
-![Stephanie Murphy]({{ site.blogurl }}/assets/stephanie_murphy.jpg)
-![Jacky Rosen]({{ site.blogurl }}/assets/jacky_rosen.jpg)
-![Carol Shea-Porter]({{ site.blogurl }}/assets/carol_shea-porter.jpg)
-![Claudia Tenney]({{ site.blogurl }}/assets/claudia_tenney.jpg)
-![Lisa Blunt Rochester]({{ site.blogurl }}/assets/lisa_blunt_rochester.jpg)
-![Pramila Jayapal]({{ site.blogurl }}/assets/pramila_jayapal.jpg)
-![Nannette Barragan]({{ site.blogurl }}/assets/nannette_barragan.jpg)
-![Val Demings]({{ site.blogurl }}/assets/val_demings.jpg)
-![Colleen Hanabusa]({{ site.blogurl }}/assets/colleen_hanabusa.jpg)
-![Liz Cheney]({{ site.blogurl }}/assets/liz_cheney.jpg)
 
 ### [Kamala Harris (D-CA)][Kamala_Harris]
 --------------------
