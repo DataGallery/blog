@@ -10,8 +10,6 @@ Tribute to the successful women that secured seats in the House and Senatate in 
 
 In the 2016 elections, 14 women were elected to hold positions in the House and Senate, 12 Democrats and 2 Republicans.  The breakdown between the Sentate and the House is 4 and 10.
 
-![Collage]({{ site.blogurl }}/assets/collage-2016-elections.jpg)
-
 *"Sometime soon, there’ll be another woman presidential nominee. Maybe she’ll be in the Clinton tradition, the grand and glorious American worker bees. Maybe she’ll just leap out, like Barack Obama did, a fresh face with a new message. All we can know now is that when we talk about how she got there, we’ll be telling Hillary Clinton’s story." from [November 11, 2016 New York Times][nyt_article]*
 
 *"This election cycle truly brought the saying “a woman’s place is in the House and Senate,” to life. Last week, 112 women candidates all over the country won elections to take or continue holding seats in the highest echelons of government. While many of the winning ladies are incumbents, we wanted to highlight the fourteen women who are new to their respective legislative offices. The following is your comprehensive list of every woman that won a seat in the House and Senate this election season and why they are awesome." from [November 15, 2016 GovLoop][govloop_article]*
