@@ -10,6 +10,10 @@ facebook_username: datagallery.io
 instagram_username: datagallery.io
 rss: rss
 
+baseurl: "/blog"
+url: "http://datagallery.io"
+blogurl: "http://datagallery.io/blog"
+
 #linkedin_username: company/datagallery
 # dribbble_username: datagallery
 # flickr_username: datagallery
