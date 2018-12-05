@@ -5,9 +5,9 @@ date:   2018-12-04 10:15:00
 categories: projectmanagement
 author:  Anna Lukasiak
 ---
-![Disruption]({{ site.blogurl }}/assets/disrupt.png)
-
 Rapid technology development makes executives worried that their organizations will not be able to keep up and will, therefore, lose their competitive edge. Many fear that their organization will disappear altogether.
+
+![Disruption]({{ site.blogurl }}/assets/disrupt.png)
 
 Disruptive technologies are about our culture that everyone has to eventually embrace; whether you love it or hate it.
 
