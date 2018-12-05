@@ -1,14 +1,48 @@
-# Site settings
-title: Data Gallery Blog
+title: Data Gallery Blog 
+#author: GitHub User
 email: anna.lukasiak@datagallery.io
-description: "Data Gallery Blog, a place to read about our projects and initatives."
-github_username: DataGallery
-twitter_username: DataGallery
+description: Data Gallery Blog, a place to read about our projects and initatives.
 
-baseurl: "/blog"
-url: "http://datagallery.io"
-blogurl: "http://datagallery.io/blog"
+# social links
+twitter_username: datagallery_ 
+github_username: datagallery
+facebook_username: datagallery.io
+instagram_username: datagallery.io
+rss: rss
+
+#linkedin_username: company/datagallery
+# dribbble_username: datagallery
+# flickr_username: datagallery
+# pinterest_username: 
+# youtube_username: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
+# telegram_username: jekyll
+# googleplus_username: +jekyll
+# microdotblog_username: jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
