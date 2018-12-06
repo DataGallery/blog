@@ -13,7 +13,7 @@ On a terminal, get the source code from github:
 Build and run the jekyll blog locally:
 ```cd blog
 bundle install
-bundle exec jeckyll serve --baseurl ''
+bundle exec jekyll serve --baseurl ''
 ```
 
 Then on a brower, 'localhost:4000'
