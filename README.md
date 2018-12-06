@@ -8,11 +8,13 @@ To create a new post for this Data Gallery blog.
 On a terminal, get the source code from github:
 
 ```git clone https://github.com/DataGallery/blog
+```
 
 Build and run the jekyll blog locally:
 ```cd blog
-```bundle install
-```bundle exec jeckyll serve --baseurl ''
+bundle install
+bundle exec jeckyll serve --baseurl ''
+```
 
 Then on a brower, 'localhost:4000'
 
@@ -21,8 +23,9 @@ Note that bundle install will create _sites directory and Gemfile.lock file.  Yo
 To create new post, create a new .md file in the _posts directory and add images in assets directory.  Don't forget to add them to github:
 
 ```git add _posts/file.md image.jpg
-```git commit -m "new blog post" _posts/file.md image.jpg
-```git push origin gh-pages
+git commit -m "new blog post" _posts/file.md image.jpg
+git push origin gh-pages
+```
 
 Check out those editors for markup tips: http://mashable.com/2013/06/24/markdown-tools/
 
