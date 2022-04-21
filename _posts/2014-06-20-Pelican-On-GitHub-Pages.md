@@ -6,9 +6,9 @@ categories: technical
 author:  Anna Lukasiak
 ---
 
-This blog post documents the setup done to create [Data Gallery Blog](http://datagallery.io/pelican) and instructions on how to create and add a new post.
+This blog post documents the setup done to create [Data Gallery Blog](https://datagallery.io/pelican) and instructions on how to create and add a new post.
 
-Instructions used to create the Data Gallery Blog can be found on [Pelican on Github Pages](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](http://docs.getpelican.com/en/3.3.0/).  They include configuration options, plug-ins and theming not included in this post.
+Instructions used to create the Data Gallery Blog can be found on [Pelican on Github Pages](https://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](https://docs.getpelican.com/en/3.3.0/).  They include configuration options, plug-ins and theming not included in this post.
 
 Installing Python
 -----------------
@@ -30,7 +30,7 @@ Once the virtual environment has been created and activated, Pelican can be be i
 
 	pip install pelican
 
-Instructions to install pip are [here](http://pip.readthedocs.org/en/latest/installing.html).
+Instructions to install pip are [here](https://pip.readthedocs.org/en/latest/installing.html).
 
 Creating new blog site
 ----------------------
@@ -52,8 +52,8 @@ Those are the questions included for Pelican v3.3.0:
 	> What will be the title of this web site? Data Gallery Blog
 	> Who will be the author of this web site? Anna Lukasiak
 	> What will be the default language of this web site? [en] 
-	> Do you want to specify a URL prefix? e.g., http://example.com   (Y/n) 
-	> What is your URL prefix? (see above example; no trailing slash) http://openjerseycity.org/pelican
+	> Do you want to specify a URL prefix? e.g., https://example.com   (Y/n) 
+	> What is your URL prefix? (see above example; no trailing slash) https://openjerseycity.org/pelican
 	> Do you want to enable article pagination? (Y/n) 
 	> How many articles per page do you want? [10] 
 	> Do you want to generate a Fabfile/Makefile to automate generation and publishing? (Y/n) 
@@ -91,12 +91,12 @@ By default, the site will be organized by categories.  The categories are define
 
 If you would like to organize your files in other ways where the name of the subfolder would not be a good category name, you can set the setting USE_FOLDER_AS_CATEGORY to False in pelicanconf.py. 
 
-The article itself can be crated using one of the several [lightweight markup language](http://en.wikipedia.org/wiki/Lightweight_markup_language) syntax options:
+The article itself can be crated using one of the several [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) syntax options:
 
-*  [Markdown](http://daringfireball.net/projects/markdown/)
-*  [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
-*  [AsciiDoc](http://asciidoc.org/)
-*  [textile](http://redcloth.org/textile/writing-paragraph-text/)
+*  [Markdown](https://daringfireball.net/projects/markdown/)
+*  [reStructuredText](https://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
+*  [AsciiDoc](https://asciidoc.org/)
+*  [textile](https://redcloth.org/textile/writing-paragraph-text/)
 
 For Data Gallery, we will use Markdown, a text-to-HTML conversion tool for web writers. “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool that converts the plain text formatting to HTML.  The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
 
@@ -116,7 +116,7 @@ The Markdown file shold end with `.md` suffix.  At the top the file, include, Me
 
 	This is the content of my super blog post.
 
-To create a Markdown file, try this simple on-line [dingus](http://daringfireball.net/projects/markdown/dingus) tool.  The full documentation for Markdown syntax can be found [here](http://daringfireball.net/projects/markdown/syntax).
+To create a Markdown file, try this simple on-line [dingus](https://daringfireball.net/projects/markdown/dingus) tool.  The full documentation for Markdown syntax can be found [here](https://daringfireball.net/projects/markdown/syntax).
 
 To add "About" page to the site, create `pages` directory inside `content` directory add about.md Markdown file.
 
@@ -124,7 +124,7 @@ If there is no summary metadata for a given post, the SUMMARY_MAX_LENGTH setting
 
 Editing pelicanconf.py and publishconf.py
 -----------------------------------------
-The configuration consists of `pelicanconf.py`, which is the main configuration file for your entire site where everything goes, and `publishconf.py` which is used when you are going to deploy your site.  The `pelicanpublish.py` file should only contain the configuration necessary for a production deployment. This includes DISQUS_SITENAME and GOOGLE_ANALYTICS. This is really great as you can keep testing locally without having your Google Analytics stats messed up, or having to keep loading Disqus.  For more info:  http://stackoverflow.com/questions/20817192/what-is-the-difference-between-pelicanconf-and-publishconf-when-using-pelican/#answers.
+The configuration consists of `pelicanconf.py`, which is the main configuration file for your entire site where everything goes, and `publishconf.py` which is used when you are going to deploy your site.  The `pelicanpublish.py` file should only contain the configuration necessary for a production deployment. This includes DISQUS_SITENAME and GOOGLE_ANALYTICS. This is really great as you can keep testing locally without having your Google Analytics stats messed up, or having to keep loading Disqus.  For more info:  https://stackoverflow.com/questions/20817192/what-is-the-difference-between-pelicanconf-and-publishconf-when-using-pelican/#answers.
 
 In `pelicanconf.py`, at minimum update TIMEZONE, LINKS and SOCIAL.
 
@@ -146,7 +146,7 @@ To start local web server:
 
 	make serve
  
-In your browser, view [http://localhost:8000](http://localhost:8000).
+In your browser, view [https://localhost:8000](https://localhost:8000).
 
 Publishing on GitHub
 --------------------
@@ -163,4 +163,4 @@ To push changes to GitHub run:
 	ghp-import output
 	git push origin gh-pages
 
-In your browser, view `https://username.github.io/project`.  In case of this project the url is [http://openjerseycity.org/pelican/](http://openjerseycity.org/pelican/).
+In your browser, view `https://username.github.io/project`.  In case of this project the url is [https://openjerseycity.org/pelican/](https://openjerseycity.org/pelican/).

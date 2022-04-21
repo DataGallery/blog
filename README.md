@@ -30,7 +30,7 @@ git commit -m "new blog post" _posts/file.md image.jpg
 git push origin gh-pages
 ```
 
-Check out those editors for markup tips: http://mashable.com/2013/06/24/markdown-tools/
+Check out those editors for markup tips: https://mashable.com/2013/06/24/markdown-tools/
 
 Using the minima theme
 -------------- 

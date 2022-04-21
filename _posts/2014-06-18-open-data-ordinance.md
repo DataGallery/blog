@@ -8,6 +8,6 @@ author:  Anna Lukasiak
 
 You can find the latest copy of the proposed ordinance [here][OpenDataOrdinance].
 
-[CodeForJC]: http://codeforjc.org/
-[cfa]: http://codeforamerica.org/
+[CodeForJC]: https://codeforjc.org/
+[cfa]: https://codeforamerica.org/
 [OpenDataOrdinance]: https://docs.google.com/document/d/15rRMZ3IEZUmtOggJpxtmZ3TNUu3V6dWA9BeN5_fG_iQ

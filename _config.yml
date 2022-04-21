@@ -11,8 +11,8 @@ instagram_username: datagallery.io
 rss: rss
 
 baseurl: "/blog"
-url: "http://datagallery.io"
-blogurl: "http://datagallery.io/blog"
+url: "https://datagallery.io"
+blogurl: "https://datagallery.io/blog"
 
 #linkedin_username: company/datagallery
 # dribbble_username: datagallery
@@ -35,7 +35,7 @@ blogurl: "http://datagallery.io/blog"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
 

@@ -107,11 +107,11 @@ Why she’s awesome: As only the third Buddhist elected to Congress and the gran
 Why she’s awesome: As the eldest daughter of former Vice President Dick Cheney, Liz Cheney knows a few things about politics. Her public service career spans from USAID, DoD, and the State Department, where she served as Deputy Assistant Secretary for Near East Affairs. Cheney is a constitutionalist, hoping to use her time in the Legislature to defend the Constitution.
 
 [wiki_women_in_senate]: https://en.wikipedia.org/wiki/Women_in_the_United_States_Senate
-[women_in_sentate]: http://www.senate.gov/reference/Index/Women.htm
+[women_in_sentate]: https://www.senate.gov/reference/Index/Women.htm
 [govloop]: https://www.govloop.com/
-[govloop_article]: http://bit.ly/2g8DV0m
-[nyt_article]:http://www.nytimes.com/2016/11/13/opinion/sunday/the-glass-ceiling-holds.html
-[dataist_article]: http://thedataist.com/author/cgivre/
+[govloop_article]: https://bit.ly/2g8DV0m
+[nyt_article]:https://www.nytimes.com/2016/11/13/opinion/sunday/the-glass-ceiling-holds.html
+[dataist_article]: https://thedataist.com/author/cgivre/
 
 [Kamala_Harris]: https://en.wikipedia.org/wiki/Kamala_Harris
 [Tammy_Duckworth]: https://en.wikipedia.org/wiki/Tammy_Duckworth

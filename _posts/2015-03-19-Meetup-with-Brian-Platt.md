@@ -77,30 +77,30 @@ The Bloomberg Innovation Grant
 The city is very close in hiring a director for the [Bloomberg Innovation Grant][iteam].  The initiative will focus on correlating crime and factors that are known to reduce crime, including youth recreational programs, removing blight, finding new use for abandoned buildings, quality of life index, etc.  There is also an overlap with open data.
 
 
-[bikejc]: http://www.bikejc.org/
-[officialdataportal]: http://www.jerseycitynj.gov/data.aspx
-[cjc]: http://codeforjc.org/
-[cfa]: http://www.codeforamerica.org/
-[teentechctr]: http://www.codeforamerica.org/
-[bgc]: http://bgchc.org/ 
-[cjcbudgetvis]: http://codeforjc.org/JerseyCityBudget/jc_2014_overview.html 
-[2ndcityzoning]: http://secondcityzoning.org/
-[newarkzonemap]: http://planning.ci.newark.nj.us/
-[jczonemap]: http://www.cityofjerseycity.com/data.aspx?id=14834 
-[downtowndevmap]: http://thejcra.org/jcra_files/File/resources/2014/Downtown%20Development%20Map%20November%2006%202014.pdf
-[jsqdevmap]: http://thejcra.org/jcra_files/File/resources/2014/Journal%20Square%20Development%20Map%20October%2030%202014.pdf
-[article]: http://googleblog.blogspot.com/2010/03/biking-directions-added-to-google-maps.html
-[bikelanesmap]: http://www.jerseycitynj.gov/data.aspx?id=14838
-[rawopsdata]: http://www.jerseycitynj.gov/data.aspx?id=14832
-[openrefine]: http://openrefine.org/
-[opraform]: http://www.jerseycitynj.gov/data.aspx 
+[bikejc]: https://www.bikejc.org/
+[officialdataportal]: https://www.jerseycitynj.gov/data.aspx
+[cjc]: https://codeforjc.org/
+[cfa]: https://www.codeforamerica.org/
+[teentechctr]: https://www.codeforamerica.org/
+[bgc]: https://bgchc.org/ 
+[cjcbudgetvis]: https://codeforjc.org/JerseyCityBudget/jc_2014_overview.html 
+[2ndcityzoning]: https://secondcityzoning.org/
+[newarkzonemap]: https://planning.ci.newark.nj.us/
+[jczonemap]: https://www.cityofjerseycity.com/data.aspx?id=14834 
+[downtowndevmap]: https://thejcra.org/jcra_files/File/resources/2014/Downtown%20Development%20Map%20November%2006%202014.pdf
+[jsqdevmap]: https://thejcra.org/jcra_files/File/resources/2014/Journal%20Square%20Development%20Map%20October%2030%202014.pdf
+[article]: https://googleblog.blogspot.com/2010/03/biking-directions-added-to-google-maps.html
+[bikelanesmap]: https://www.jerseycitynj.gov/data.aspx?id=14838
+[rawopsdata]: https://www.jerseycitynj.gov/data.aspx?id=14832
+[openrefine]: https://openrefine.org/
+[opraform]: https://www.jerseycitynj.gov/data.aspx 
 [foiamachine]: https://www.foiamachine.org/
-[amcommunitysurvey]: http://www.census.gov/acs/www/
-[jcsurveydata]: http://www.cityofjerseycity.com/data.aspx?id=14948
-[rrc]: http://mygovhelp.com/jerseycitynj/_cs/supporthome.aspx?sSessionID=
+[amcommunitysurvey]: https://www.census.gov/acs/www/
+[jcsurveydata]: https://www.cityofjerseycity.com/data.aspx?id=14948
+[rrc]: https://mygovhelp.com/jerseycitynj/_cs/supporthome.aspx?sSessionID=
 [fixit]: https://itunes.apple.com/us/app/jersey-city-rrc-fix-it/id748970109?mt=8
-[streetbump]: http://www.streetbump.org/
-[iteam]: http://www.cityofjerseycity.com/iteam/ 
-[opengov]: http://opengov.com/
+[streetbump]: https://www.streetbump.org/
+[iteam]: https://www.cityofjerseycity.com/iteam/ 
+[opengov]: https://opengov.com/
 
 
