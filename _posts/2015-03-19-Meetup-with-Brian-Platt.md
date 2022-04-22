@@ -78,15 +78,15 @@ The city is very close in hiring a director for the [Bloomberg Innovation Grant]
 
 
 [bikejc]: https://www.bikejc.org/
-[officialdataportal]: https://www.jerseycitynj.gov/data.aspx
-[cjc]: https://codeforjc.org/
+[officialdataportal]: https://data.jerseycitynj.gov
+[cjc]: https://www.meetup.com/Code-For-Jersey-City/ 
 [cfa]: https://www.codeforamerica.org/
 [teentechctr]: https://www.codeforamerica.org/
-[bgc]: https://bgchc.org/ 
+[bgc]: https://www.bgchc.org/
 [cjcbudgetvis]: https://codeforjc.org/JerseyCityBudget/jc_2014_overview.html 
 [2ndcityzoning]: https://secondcityzoning.org/
 [newarkzonemap]: https://planning.ci.newark.nj.us/
-[jczonemap]: https://www.cityofjerseycity.com/data.aspx?id=14834 
+[jczonemap]: https://data.jerseycitynj.gov/explore/dataset/zoning-map-2019/information/ 
 [downtowndevmap]: https://thejcra.org/jcra_files/File/resources/2014/Downtown%20Development%20Map%20November%2006%202014.pdf
 [jsqdevmap]: https://thejcra.org/jcra_files/File/resources/2014/Journal%20Square%20Development%20Map%20October%2030%202014.pdf
 [article]: https://googleblog.blogspot.com/2010/03/biking-directions-added-to-google-maps.html
@@ -100,7 +100,7 @@ The city is very close in hiring a director for the [Bloomberg Innovation Grant]
 [rrc]: https://mygovhelp.com/jerseycitynj/_cs/supporthome.aspx?sSessionID=
 [fixit]: https://itunes.apple.com/us/app/jersey-city-rrc-fix-it/id748970109?mt=8
 [streetbump]: https://www.streetbump.org/
-[iteam]: https://www.cityofjerseycity.com/iteam/ 
+[iteam]: https://innovatejc.org/ 
 [opengov]: https://opengov.com/
 
 
