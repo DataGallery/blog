@@ -53,7 +53,7 @@ Those are the questions included for Pelican v3.3.0:
 	> Who will be the author of this web site? Anna Lukasiak
 	> What will be the default language of this web site? [en] 
 	> Do you want to specify a URL prefix? e.g., https://example.com   (Y/n) 
-	> What is your URL prefix? (see above example; no trailing slash) https://openjerseycity.org/pelican
+	> What is your URL prefix? (see above example; no trailing slash) https://www.datagallery.io/pelican
 	> Do you want to enable article pagination? (Y/n) 
 	> How many articles per page do you want? [10] 
 	> Do you want to generate a Fabfile/Makefile to automate generation and publishing? (Y/n) 
@@ -163,4 +163,4 @@ To push changes to GitHub run:
 	ghp-import output
 	git push origin gh-pages
 
-In your browser, view `https://username.github.io/project`.  In case of this project the url is [https://openjerseycity.org/pelican/](https://openjerseycity.org/pelican/).
+In your browser, view `https://username.github.io/project`.  In case of this project the url is [https://www.datagallery.io/pelican/](https://www.datagallery.io/pelican/).
