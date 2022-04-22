@@ -30,7 +30,7 @@ Once the virtual environment has been created and activated, Pelican can be be i
 
 	pip install pelican
 
-Instructions to install pip are [here](https://pip.readthedocs.org/en/latest/installing.html).
+Instructions to install pip are [here](https://pip.pypa.io/en/latest/installation/).
 
 Creating new blog site
 ----------------------
@@ -94,7 +94,7 @@ If you would like to organize your files in other ways where the name of the sub
 The article itself can be crated using one of the several [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) syntax options:
 
 *  [Markdown](https://daringfireball.net/projects/markdown/)
-*  [reStructuredText](https://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
+*  [reStructuredText](https://docutils.sourceforge.io/rst.html)
 *  [AsciiDoc](https://asciidoc.org/)
 *  [textile](https://redcloth.org/textile/writing-paragraph-text/)
 
