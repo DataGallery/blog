@@ -8,7 +8,7 @@ author:  Anna Lukasiak
 
 This blog post documents the setup done to create [Data Gallery Blog](https://www.datagallery.io/pelican) and instructions on how to create and add a new post.
 
-Instructions used to create the Data Gallery Blog can be found on [Pelican on Github Pages](https://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](https://docs.getpelican.com/en/3.3.0/).  They include configuration options, plug-ins and theming not included in this post.
+Instructions used to create the Data Gallery Blog can be found on [Pelican on Github Pages](https://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github) and [Pelican Documentation](https://docs.getpelican.com/en/4.7.2/).  They include configuration options, plug-ins and theming not included in this post.
 
 Installing Python
 -----------------
