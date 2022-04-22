@@ -72,7 +72,7 @@ There is one more config file change that needs to be made to run the blog on Gi
 
 If you are using custom domain names, then use this url line `url: "https://customomain.com"` instead.  In our case we are using 
 
-	url: "https://openjerseycity.org/"
+	url: "https://www.datagallery.io/"
 	baseurl: "/blog"
 
 Finally, add and commit all changes to GitHub:
@@ -81,7 +81,7 @@ Finally, add and commit all changes to GitHub:
 	 git commit -m"your comment goes here"
 	 git push origin gh-pages
 
-In your browser, view `https://username.github.io/project`.  In case of this project the url is [https://openjerseycity.org/blog/](https://openjerseycity.org/blog/).
+In your browser, view `https://username.github.io/project`.  In case of this project the url is [https://www.datagallery.io/blog/](https://www.datagallery.io/blog/).
 
 Running Jekyll locally in GitHub Pages Environment
 --------------------------------------------------
