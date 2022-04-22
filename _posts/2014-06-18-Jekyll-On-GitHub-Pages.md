@@ -6,7 +6,7 @@ categories: technical
 author:  Anna Lukasiak
 ---
 
-This blog post documents the setup done to create [Data Gallery Blog](https://datagallery.io/blog) and instructions on how to create and add a new post.
+This blog post documents the setup done to create [Data Gallery Blog](https://www.datagallery.io/blog) and instructions on how to create and add a new post.
 
 Instructions used to create the Data Gallery Blog can be found on [Jekyll on Github Pages](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll) and [Jekyll Documentation](https://jekyllrb.com/).  They include configuration options, plug-ins and theming not included in this post.
 
