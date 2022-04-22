@@ -12,4 +12,4 @@ We work with a wide range of organizations, including private sector, government
 
 For more information visit [Data Gallery][Data Gallery Landing].
 
-[Data Gallery landing]: https://datagallery.io#contact
+[Data Gallery landing]: https://www.datagallery.io#contact
